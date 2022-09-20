@@ -93,7 +93,9 @@ In this study, we have chosen a dataset of real financial transactions provided 
 
 ### 1. SHAP (Shapley Additive Explanations)
 
-![image](https://user-images.githubusercontent.com/31254745/191380674-eada5c89-a0bc-462a-8307-07cc07974653.png)
+<p align="center" width="100%">
+<img alt="GIF" src="https://user-images.githubusercontent.com/31254745/191380674-eada5c89-a0bc-462a-8307-07cc07974653.png">
+</p>
 
 ###  2. LIME (Local Interpretable Model-Agnostic Explanations)
 
@@ -101,7 +103,10 @@ In this study, we have chosen a dataset of real financial transactions provided 
 
 ### 3. SHAPASH
 
-![image](https://user-images.githubusercontent.com/31254745/191380886-e65c89d6-0e0c-4105-8b2b-daeeb2d405dd.png)
+<p align="center" width="100%">
+<img alt="GIF" src="https://user-images.githubusercontent.com/31254745/191380886-e65c89d6-0e0c-4105-8b2b-daeeb2d405dd.png">
+</p>
+
 
 ## Proof-of-Concept (POC) Demonstration
 
