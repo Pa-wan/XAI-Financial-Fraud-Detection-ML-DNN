@@ -1,0 +1,6 @@
+lightgbm==2.2.3
+streamlit==1.12.2
+numpy==1.21.6
+pickleshare==0.7.5
+pandas==1.3.5
+scikit-learn==1.0.2
